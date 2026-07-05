@@ -1,0 +1,21 @@
+# Icarus Verilog build outputs
+*_sim
+*.vvp
+
+# Waveform files
+*.vcd
+*.fst
+*.lxt
+*.lxt2
+
+# Local tooling metadata
+.agents/
+.codex/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
+Thumbs.db
